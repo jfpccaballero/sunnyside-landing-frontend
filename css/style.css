@@ -140,7 +140,11 @@ p { font-size: 16px;}
     .menu:hover { cursor: pointer;}
     .name { margin: 2rem 0 0; }
     .row, .testimony { display: block; }
-    .testimonials h2 { padding:3rem 0 0;}
+    .testimonials { padding-left: 10%; padding-right: 10%;} 
+    .testimonials h2 { 
+        letter-spacing: 2px;
+        padding: 3rem 0 0;
+    }
     .testimony-3 { width: auto;}
     .top {
         background-image: url(../images/mobile/image-header.jpg);
